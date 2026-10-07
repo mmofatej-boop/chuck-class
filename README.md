@@ -1,0 +1,2 @@
+# chuck-class
+ChucK assignments  
